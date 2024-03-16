@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+header{
+  text-align: center;
+
+}
+
+.btn-danger{
+  margin-left: 10px;
+}
